@@ -1,0 +1,5 @@
+D:\Uni\C#\Evaluacion - Introduccion\mascotas\mascotas\obj\Debug\mascotas.csprojResolveAssemblyReference.cache
+D:\Uni\C#\Evaluacion - Introduccion\mascotas\mascotas\bin\Debug\mascotas.exe
+D:\Uni\C#\Evaluacion - Introduccion\mascotas\mascotas\bin\Debug\mascotas.pdb
+D:\Uni\C#\Evaluacion - Introduccion\mascotas\mascotas\obj\Debug\mascotas.exe
+D:\Uni\C#\Evaluacion - Introduccion\mascotas\mascotas\obj\Debug\mascotas.pdb
